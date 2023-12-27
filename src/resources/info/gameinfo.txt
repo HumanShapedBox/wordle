@@ -1,0 +1,11 @@
+What is Wordle?
+Your challenge is to guess a five-letter word.
+Wordle is a simple game that there are hardly any rules. But here you go:
+You have to guess the Wordle in six goes or less
+Every word you enter must be in the word list. There are more than 10,000 words in this list
+A correct letter stays on board
+A correct letter in the wrong place goes below board
+An incorrect letter goes to the "No such letter here" list
+Letters can be used more than once
+Answers are never plurals
+Good luck!
